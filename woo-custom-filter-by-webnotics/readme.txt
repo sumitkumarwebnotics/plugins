@@ -81,4 +81,4 @@ For support, please contact us at [support@mydevit.in](mailto:support@mydevit.in
 
 == Additional Information ==
 
-For more information about this plugin, visit the [plugin homepage](#).
+For more information about this plugin, visit the [plugin homepage](#)...
