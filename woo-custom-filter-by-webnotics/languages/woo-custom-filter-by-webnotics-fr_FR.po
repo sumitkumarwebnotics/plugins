@@ -1,0 +1,316 @@
+msgid "Welcome to my Product filter based on custom field and custom taxonomy for woocommerce."
+msgstr "Bienvenue dans mon filtre de produits basé sur un champ personnalisé et une taxonomie personnalisée pour WooCommerce."
+
+msgid "All Custom Field"
+msgstr "Tous les champs personnalisés"
+
+msgid "All Taxnomony"
+msgstr "Toutes les taxonomies"
+
+msgid "Custom Field List"
+msgstr "Liste des champs personnalisés"
+
+msgid "Taxonomies List"
+msgstr "Liste des taxonomies"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Product filter for custom field and taxonomy Documentation"
+msgstr "Documentation sur le filtre de produit pour champ personnalisé et taxonomie"
+
+msgid "Welcome to the documentation for WooCustomFilter Plugin."
+msgstr "Bienvenue dans la documentation du plugin WooCustomFilter."
+
+msgid "Here you will find information about custom fields"
+msgstr "Vous trouverez ici des informations sur les champs personnalisés"
+
+msgid "taxonomies"
+msgstr "taxonomies"
+
+msgid "and filters."
+msgstr "et les filtres."
+
+msgid "Here you will find information about custom fields, taxonomies, and filters."
+msgstr "Vous trouverez ici des informations sur les champs personnalisés, les taxonomies et les filtres."
+
+msgid "Custom Fields"
+msgstr "Champs personnalisés"
+
+msgid "My Plugin allows you to create custom fields."
+msgstr "Mon plugin vous permet de créer des champs personnalisés."
+
+msgid "Here’s how you can use them"
+msgstr "Voici comment vous pouvez les utiliser"
+
+msgid "Field Name"
+msgstr "Nom du champ"
+
+msgid "Enter unique field name for custom field."
+msgstr "Entrez un nom de champ unique pour le champ personnalisé."
+
+msgid "Field Type"
+msgstr "Type de champ"
+
+msgid "Select field type for custom field like type:Radio , Input, Checkbox....."
+msgstr "Sélectionnez le type de champ pour le champ personnalisé, comme type : Radio, Entrée, Case à cocher....."
+
+msgid "Custom Taxonomies"
+msgstr "Taxonomies personnalisées"
+
+msgid "My Plugin supports custom taxonomies."
+msgstr "Mon plugin prend en charge les taxonomies personnalisées."
+
+msgid "Here’s how you can manage them"
+msgstr "Voici comment vous pouvez les gérer"
+
+msgid "Taxonomy Name"
+msgstr "Nom de la taxonomie"
+
+msgid "Enter unique field name for taxonomies"
+msgstr "Entrez un nom de champ unique pour les taxonomies"
+
+msgid "Custom Filters"
+msgstr "Filtres personnalisés"
+
+msgid "My Plugin includes custom filters. Here’s how you can apply them"
+msgstr "Mon plugin inclut des filtres personnalisés. Voici comment vous pouvez les appliquer"
+
+msgid "Settings for override shop template"
+msgstr "Paramètres pour remplacer le modèle de la boutique"
+
+msgid "After install and activate plugin"
+msgstr "Après l'installation et l'activation du plugin"
+
+msgid "Go to settings in custom filter menu and check checkbox and save it."
+msgstr "Allez dans les paramètres du menu de filtre personnalisé, cochez la case et enregistrez."
+
+msgid "Plugin Installation and Activation Guide"
+msgstr "Guide d'installation et d'activation du plugin"
+
+msgid "1. Downloading the Plugin"
+msgstr "1. Télécharger le plugin"
+
+msgid "From the WordPress Repository Navigate to the WordPress Plugin Repository"
+msgstr "Depuis le dépôt WordPress, naviguez vers le dépôt de plugins WordPress"
+
+msgid "Go to the WordPress Plugin Directory. Search for the Plugin"
+msgstr "Allez dans le répertoire de plugins WordPress. Recherchez le plugin"
+
+msgid "Use the search bar to find the plugin by name"
+msgstr "Utilisez la barre de recherche pour trouver le plugin par son nom"
+
+msgid "Product filter based on custom field and custom taxonomy for woocommerce Upgraded"
+msgstr "Filtre de produit basé sur un champ personnalisé et une taxonomie personnalisée pour WooCommerce amélioré"
+
+msgid "Download the Plugin"
+msgstr "Télécharger le plugin"
+
+msgid "Click on the plugin title to view its details. Click the Download button to download the .zip file of the plugin to your computer."
+msgstr "Cliquez sur le titre du plugin pour afficher ses détails. Cliquez sur le bouton Télécharger pour télécharger le fichier .zip du plugin sur votre ordinateur."
+
+msgid "2. Installing the Plugin"
+msgstr "2. Installer le plugin"
+
+msgid "Via the WordPress Admin Dashboard Log in to Your WordPress Admin Dashboard"
+msgstr "Via le tableau de bord administrateur WordPress, connectez-vous à votre tableau de bord administrateur WordPress"
+
+msgid "Enter your admin credentials and log in to your WordPress site. Navigate to the Plugins Page"
+msgstr "Entrez vos identifiants administrateur et connectez-vous à votre site WordPress. Allez à la page des plugins"
+
+msgid "Go to Plugins > Add New. Upload the Plugin"
+msgstr "Allez dans Plugins > Ajouter nouveau. Téléchargez le plugin"
+
+msgid "Click the Upload Plugin button at the top of the page. Click Choose File, select the .zip file you downloaded, and click Install Now. Activate the Plugin"
+msgstr "Cliquez sur le bouton Télécharger le plugin en haut de la page. Cliquez sur Choisir un fichier, sélectionnez le fichier .zip que vous avez téléchargé et cliquez sur Installer maintenant. Activez le plugin"
+
+msgid "Once the plugin is installed, click the Activate Plugin link."
+msgstr "Une fois le plugin installé, cliquez sur le lien Activer le plugin."
+
+msgid "Via FTP/SFTP Connect to Your Server: Use an FTP/SFTP client (e.g., FileZilla) to connect to your web server. Upload the Plugin"
+msgstr "Via FTP/SFTP Connectez-vous à votre serveur : Utilisez un client FTP/SFTP (par exemple, FileZilla) pour vous connecter à votre serveur web. Téléchargez le plugin"
+
+msgid "Navigate to the /wp-content/plugins/ directory. Upload the extracted plugin folder (not the .zip file) into this directory. Activate the Plugin:"
+msgstr "Naviguez vers le répertoire /wp-content/plugins/. Téléchargez le dossier du plugin extrait (pas le fichier .zip) dans ce répertoire. Activez le plugin :"
+
+msgid "Log in to your WordPress Admin Dashboard. Go to Plugins > Installed Plugins. Find the plugin in the list and click Activate."
+msgstr "Connectez-vous à votre tableau de bord administrateur WordPress. Allez dans Plugins > Plugins installés. Trouvez le plugin dans la liste et cliquez sur Activer."
+
+msgid "3. Activating the Plugin"
+msgstr "3. Activer le plugin"
+
+msgid "Log in to Your WordPress Admin Dashboard:"
+msgstr "Connectez-vous à votre tableau de bord administrateur WordPress :"
+
+msgid "Enter your admin credentials and access the dashboard. Go to the Plugins Page:"
+msgstr "Entrez vos identifiants administrateur et accédez au tableau de bord. Allez à la page des plugins :"
+
+msgid "Navigate to Plugins > Installed Plugins. Locate the Plugin:"
+msgstr "Naviguez vers Plugins > Plugins installés. Localisez le plugin :"
+
+msgid "Find the newly installed plugin in the list.Activate the Plugin:"
+msgstr "Trouvez le plugin nouvellement installé dans la liste. Activez le plugin :"
+
+msgid "Click the Activate link under the plugins name. Verify Activation:"
+msgstr "Cliquez sur le lien Activer sous le nom du plugin. Vérifiez l'activation :"
+
+msgid "Ensure that the plugin is now listed as active and configured properly"
+msgstr "Assurez-vous que le plugin est maintenant listé comme actif et correctement configuré"
+
+msgid "Add New Custom Field"
+msgstr "Ajouter un nouveau champ personnalisé"
+
+msgid "Add New Taxonomy"
+msgstr "Ajouter une nouvelle taxonomie"
+
+msgid "Setting Page"
+msgstr "Page des paramètres"
+
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+msgid "Filter Option"
+msgstr "Option de filtre"
+
+msgid "Customize style"
+msgstr "Personnaliser le style"
+
+msgid "Do you want to override the shop template?"
+msgstr "Voulez-vous remplacer le modèle de boutique ?"
+
+msgid "Do you want to override the category page template?"
+msgstr "Voulez-vous remplacer le modèle de la page catégorie ?"
+
+msgid "Do you want to remove content after removing the plugin?"
+msgstr "Voulez-vous supprimer le contenu après avoir supprimé le plugin ?"
+
+msgid "Filter By"
+msgstr "Filtrer par"
+
+msgid "Filter by Search keyword"
+msgstr "Filtrer par mot-clé de recherche"
+
+msgid "Filter by Price"
+msgstr "Filtrer par prix"
+
+msgid "Filter by rating"
+msgstr "Filtrer par évaluation"
+
+msgid "Filter by Tags"
+msgstr "Filtrer par étiquettes"
+
+msgid "Clear filter"
+msgstr "Effacer le filtre"
+
+msgid "Filter By Taxonomies"
+msgstr "Filtrer par taxonomies"
+
+msgid "Custom Filter Option"
+msgstr "Option de filtre personnalisé"
+
+msgid "All Custom Field"
+msgstr "Tous les champs personnalisés"
+
+msgid "All Taxonomies Field"
+msgstr "Tous les champs de taxonomies"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Add New Custom Field"
+msgstr "Ajouter un nouveau champ personnalisé"
+
+msgid "Update Custom Field"
+msgstr "Mettre à jour le champ personnalisé"
+
+msgid "Add New Taxonomy"
+msgstr "Ajouter une nouvelle taxonomie"
+
+msgid "Button Text Color"
+msgstr "Couleur du texte du bouton"
+
+msgid "Choose the color for the button text."
+msgstr "Choisissez la couleur du texte du bouton."
+
+msgid "Button background Color"
+msgstr "Couleur de fond du bouton"
+
+msgid "Choose the Button background Color."
+msgstr "Choisissez la couleur de fond du bouton."
+
+msgid "Button Font Family"
+msgstr "Famille de polices du bouton"
+
+msgid "Choose the Button Font Family."
+msgstr "Choisissez la famille de polices du bouton."
+
+msgid "Button Font Size in px"
+msgstr "Taille de police du bouton en px"
+
+msgid "Insert the Button Font Size."
+msgstr "Insérez la taille de police du bouton."
+
+msgid "Heading Text Color"
+msgstr "Couleur du texte de l'en-tête"
+
+msgid "Choose the heading Text Color."
+msgstr "Choisissez la couleur du texte de l'en-tête."
+
+msgid "Heading Font Family"
+msgstr "Famille de polices de l'en-tête"
+
+msgid "Choose the heading Font Family."
+msgstr "Choisissez la famille de polices de l'en-tête."
+
+msgid "Heading Font Size in px"
+msgstr "Taille de police de l'en-tête en px"
+
+msgid "Insert the heading Font Size."
+msgstr "Insérez la taille de police de l'en-tête."
+
+msgid "Choose the color for price range slider"
+msgstr "Choisissez la couleur du curseur de la plage de prix"
+
+msgid "Choose the color for price range slider."
+msgstr "Choisissez la couleur du curseur de la plage de prix."
+
+msgid "Google font family API"
+msgstr "API de la famille de polices Google"
+
+msgid "Enter Google font family API"
+msgstr "Entrez l'API de la famille de polices Google"
+
+msgid "Do you want to enable sticky filter form?"
+msgstr "Voulez-vous activer le formulaire de filtre fixe ?"
+
+msgid "Enable input box search by keyword?"
+msgstr "Activer la recherche par mot-clé dans la zone de saisie ?"
+
+msgid "Enable filter by price?"
+msgstr "Activer le filtre par prix ?"
+
+msgid "Enable filter by rating?"
+msgstr "Activer le filtre par évaluation ?"
+
+msgid "Enable filter by tag?"
+msgstr "Activer le filtre par étiquette ?"
+
+msgid "Search by keyword or SKU"
+msgstr "Rechercher par mot-clé ou SKU"
+
+msgid "Choose tags ..."
+msgstr "Choisissez des tags ..."
+
+msgid "Enter Value..."
+msgstr "Saisir la valeur..."
+
+msgid "Price:"
+msgstr "Prix:"
+
+msgid "Woocommerce Category"
+msgstr "Catégorie WooCommerce"
+
+

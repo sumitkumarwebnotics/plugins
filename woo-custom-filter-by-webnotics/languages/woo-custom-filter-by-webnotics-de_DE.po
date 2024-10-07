@@ -1,0 +1,314 @@
+msgid "Welcome to my Product filter based on custom field and custom taxonomy for woocommerce."
+msgstr "Welkom bij mijn productfilter op basis van aangepast veld en aangepaste taxonomie voor woocommerce."
+
+msgid "All Custom Field"
+msgstr "Alle benutzerdefinierten Felder"
+
+msgid "All Taxnomony"
+msgstr "Alle Taxonomie"
+
+msgid "Custom Field List"
+msgstr "Aangepaste veldlijst"
+
+msgid "Taxonomies List"
+msgstr "Taxonomieën Lijst"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Product filter for custom field and taxonomy Documentation"
+msgstr "Productfilter voor aangepast veld en taxonomie Documentatie"
+
+msgid "Welcome to the documentation for WooCustomFilter Plugin."
+msgstr "Welkom bij de documentatie voor de WooCustomFilter Plugin."
+
+msgid "Here you will find information about custom fields"
+msgstr "Hier vindt u informatie over aangepaste velden"
+
+msgid "taxonomies"
+msgstr "taxonomieën"
+
+msgid "and filters."
+msgstr "en filters."
+
+msgid "Here you will find information about custom fields, taxonomies, and filters."
+msgstr "Hier vindt u informatie over aangepaste velden, taxonomieën en filters."
+
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+msgid "My Plugin allows you to create custom fields."
+msgstr "Met Mijn Plugin kunt u aangepaste velden maken."
+
+msgid "Here’s how you can use them"
+msgstr "Zo kunt u ze gebruiken"
+
+msgid "Field Name"
+msgstr "Veldnaam"
+
+msgid "Enter unique field name for custom field."
+msgstr "Voer een unieke veldnaam in voor het aangepaste veld."
+
+msgid "Field Type"
+msgstr "Veldtype"
+
+msgid "Select field type for custom field like type:Radio , Input, Checkbox....."
+msgstr "Selecteer het veldtype voor een aangepast veld, zoals type: Radio, Invoer, Selectievakje....."
+
+msgid "Custom Taxonomies"
+msgstr "Aangepaste taxonomieën"
+
+msgid "My Plugin supports custom taxonomies."
+msgstr "Mijn plug-in ondersteunt aangepaste taxonomieën."
+
+msgid "Here’s how you can manage them"
+msgstr "Hier leest u hoe u ze kunt beheren"
+
+msgid "Taxonomy Name"
+msgstr "Taxonomienaam"
+
+msgid "Enter unique field name for taxonomies"
+msgstr "Voer een unieke veldnaam in voor taxonomieën"
+
+msgid "Custom Filters"
+msgstr "Aangepaste filters"
+
+msgid "My Plugin includes custom filters. Here’s how you can apply them"
+msgstr "Mijn plug-in bevat aangepaste filters. Hier ziet u hoe u ze kunt toepassen"
+
+msgid "Settings for override shop template"
+msgstr "Instellingen voor het overschrijven van winkelsjabloon"
+
+msgid "After install and activate plugin"
+msgstr "Na het installeren en activeren van de plug-in"
+
+msgid "Go to settings in custom filter menu and check checkbox and save it."
+msgstr "Ga naar instellingen in het aangepaste filtermenu, vink het selectievakje aan en sla het op."
+
+msgid "Plugin Installation and Activation Guide"
+msgstr "Installatie- en activeringsgids voor plug-ins"
+
+msgid "1. Downloading the Plugin"
+msgstr "1. De plug-in downloaden"
+
+msgid "From the WordPress Repository Navigate to the WordPress Plugin Repository"
+msgstr "Vanuit de WordPress Repository Navigeer naar de WordPress Plugin Repository"
+
+msgid "Go to the WordPress Plugin Directory. Search for the Plugin"
+msgstr "Ga naar de WordPress Plugin Directory. Zoek naar de plug-in"
+
+msgid "Use the search bar to find the plugin by name"
+msgstr "Gebruik de zoekbalk om de plug-in op naam te vinden"
+
+msgid "Product filter based on custom field and custom taxonomy for woocommerce Upgraded"
+msgstr "productfilter op basis van aangepast veld en aangepaste taxonomie voor woocommerce Upgraded"
+
+msgid "Download the Plugin"
+msgstr "Download de plug-in"
+
+msgid "Click on the plugin title to view its details. Click the Download button to download the .zip file of the plugin to your computer."
+msgstr "Klik op de titel van de plug-in om de details ervan te bekijken. Klik op de knop Downloaden om het .zip-bestand van de plug-in naar uw computer te downloaden."
+
+msgid "2. Installing the Plugin"
+msgstr "De plug-in installeren"
+
+msgid "Via the WordPress Admin Dashboard Log in to Your WordPress Admin Dashboard"
+msgstr "Via het WordPress-beheerdersdashboard logt u in op uw WordPress-beheerdersdashboard"
+
+msgid "Enter your admin credentials and log in to your WordPress site. Navigate to the Plugins Page"
+msgstr "Voer uw beheerdersgegevens in en log in op uw WordPress-site. Navigeer naar de Plug-inspagina"
+
+msgid "Go to Plugins > Add New. Upload the Plugin"
+msgstr "Ga naar Plug-ins > Nieuwe toevoegen. Upload de plug-in"
+
+msgid "Click the Upload Plugin button at the top of the page. Click Choose File, select the .zip file you downloaded, and click Install Now. Activate the Plugin"
+msgstr "Klik op de knop Plug-in uploaden bovenaan de pagina. Klik op Bestand kiezen, selecteer het .zip-bestand dat u hebt gedownload en klik op Nu installeren. Activeer de plug-in:"
+
+msgid "Once the plugin is installed, click the Activate Plugin link."
+msgstr "Zodra de plug-in is geïnstalleerd, klikt u op de link Plug-in activeren."
+
+msgid "Via FTP/SFTP Connect to Your Server: Use an FTP/SFTP client (e.g., FileZilla) to connect to your web server. Upload the Plugin"
+msgstr "Via FTP/SFTP Verbinding maken met uw server: Gebruik een FTP/SFTP-client (bijvoorbeeld FileZilla) om verbinding te maken met uw webserver. Upload de plug-in"
+
+msgid "Navigate to the /wp-content/plugins/ directory. Upload the extracted plugin folder (not the .zip file) into this directory. Activate the Plugin:"
+msgstr "Navigeer naar de map /wp-content/plugins/. Upload de uitgepakte plug-inmap (niet het .zip-bestand) naar deze map. Activeer de plug-in:"
+
+msgid "Log in to your WordPress Admin Dashboard. Go to Plugins > Installed Plugins. Find the plugin in the list and click Activate."
+msgstr "Log in op uw WordPress-beheerdersdashboard. Ga naar Plug-ins > Geïnstalleerde plug-ins. Zoek de plug-in in de lijst en klik op Activeren."
+
+msgid "3. Activating the Plugin"
+msgstr "3. Activeren van de plug-in"
+
+msgid "Log in to Your WordPress Admin Dashboard:"
+msgstr "Log in op uw WordPress-beheerdersdashboard:"
+
+msgid "Enter your admin credentials and access the dashboard. Go to the Plugins Page:"
+msgstr "Voer uw beheerdersreferenties in en ga naar het dashboard. Ga naar de Plug-inspagina:"
+
+msgid "Navigate to Plugins > Installed Plugins. Locate the Plugin:"
+msgstr "Navigeer naar Plug-ins > Geïnstalleerde plug-ins. Zoek de plug-in:"
+
+msgid "Find the newly installed plugin in the list.Activate the Plugin:"
+msgstr "Zoek de nieuw geïnstalleerde plug-in in de lijst. Activeer de plug-in:"
+
+msgid "Click the Activate link under the plugins name. Verify Activation:"
+msgstr "Klik op de link Activeren onder de naam van de plug-in. Activering verifiëren:"
+
+msgid "Ensure that the plugin is now listed as active and configured properly"
+msgstr "Zorg ervoor dat de plug-in nu als actief wordt vermeld en correct is geconfigureerd"
+
+msgid "Add New Custom Field"
+msgstr "Nieuw aangepast veld toevoegen"
+
+msgid "Add New Taxonomy"
+msgstr "Nieuwe taxonomie toevoegen"
+
+msgid "Setting Page"
+msgstr "Pagina Instellingen"
+
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+msgid "Filter Option"
+msgstr "Filteroptie"
+
+msgid "Customize style"
+msgstr "Pas stijl aan"
+
+msgid "Do you want to override the shop template?"
+msgstr "Wilt u het winkelsjabloon overschrijven?"
+
+msgid "Do you want to override the category page template?"
+msgstr "Wilt u de categoriepaginasjabloon overschrijven?"
+
+msgid "Do you want to remove content after removing the plugin?"
+msgstr "Wil je inhoud verwijderen na het verwijderen van de plug-in?"
+
+msgid "Filter By"
+msgstr "Filtern nach"
+
+msgid "Filter by Search keyword"
+msgstr "Nach Suchbegriff filtern"
+
+msgid "Filter by Price"
+msgstr "Nach Preis filtern"
+
+msgid "Filter by rating"
+msgstr "Nach Bewertung filtern"
+
+msgid "Filter by Tags"
+msgstr "Nach Tags filtern"
+
+msgid "Clear filter"
+msgstr "Filter löschen"
+
+msgid "Filter By Taxonomies"
+msgstr "Nach Taxonomien filtern"
+
+msgid "Custom Filter Option"
+msgstr "Benutzerdefinierte Filteroption"
+
+msgid "All Custom Field"
+msgstr "Alle benutzerdefinierten Felder"
+
+msgid "All Taxonomies Field"
+msgstr "Feld „Alle Taxonomien“."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Add New Custom Field"
+msgstr "Neues benutzerdefiniertes Feld hinzufügen"
+
+msgid "Update Custom Field"
+msgstr "Benutzerdefiniertes Feld aktualisieren"
+
+msgid "Add New Taxonomy"
+msgstr "Neue Taxonomie hinzufügen"
+
+msgid "Button Text Color"
+msgstr "Schaltflächentextfarbe"
+
+msgid "Choose the color for the button text."
+msgstr "Wählen Sie die Farbe für den Schaltflächentext."
+
+msgid "Button background Color"
+msgstr "Hintergrundfarbe der Schaltfläche."
+
+msgid "Choose the Button background Color."
+msgstr "Wählen Sie die Hintergrundfarbe der Schaltfläche."
+
+msgid "Button Font Family"
+msgstr "Schaltflächen-Schriftfamilie"
+
+msgid "Choose the Button Font Family."
+msgstr "Wählen Sie die Schaltflächen-Schriftfamilie."
+
+msgid "Button Font Size in px"
+msgstr "Schriftgröße der Schaltfläche in Pixel"
+
+msgid "Insert the Button Font Size."
+msgstr "Geben Sie die Schriftgröße der Schaltfläche ein."
+
+msgid "Heading Text Color"
+msgstr "Farbe des Überschriftentextes"
+
+msgid "Choose the heading Text Color."
+msgstr "Wählen Sie die Überschrift Textfarbe."
+
+msgid "Heading Font Family"
+msgstr "Überschrift Schriftfamilie"
+
+msgid "Choose the heading Font Family."
+msgstr "Wählen Sie die Überschrift „Schriftfamilie“."
+
+msgid "Heading Font Size in px"
+msgstr "Schriftgröße der Überschrift in px"
+
+msgid "Insert the heading Font Size."
+msgstr "Fügen Sie die Überschrift „Schriftgröße“ ein."
+
+msgid "Choose the color for price range slider"
+msgstr "Wählen Sie die Farbe für den Preisspannen-Schieberegler"
+
+msgid "Choose the color for price range slider."
+msgstr "Wählen Sie die Farbe für den Preisspannen-Schieberegler."
+
+msgid "Google font family API"
+msgstr "Google-Schriftfamilien-API"
+
+msgid "Enter Google font family API"
+msgstr "Geben Sie die Google-Schriftfamilien-API ein"
+
+msgid "Do you want to enable sticky filter form?"
+msgstr "Möchten Sie das Sticky-Filter-Formular aktivieren?"
+
+msgid "Enable input box search by keyword?"
+msgstr "Eingabefeldsuche nach Stichwort aktivieren?"
+
+msgid "Enable filter by price?"
+msgstr "Filter nach Preis aktivieren?"
+
+msgid "Enable filter by rating?"
+msgstr "Filter nach Bewertung aktivieren?"
+
+msgid "Enable filter by tag?"
+msgstr "Filter nach Tag aktivieren?"
+
+msgid "Search by keyword or SKU"
+msgstr "Suche nach Stichwort oder SKU"
+
+msgid "Choose tags ..."
+msgstr "Wählen Sie Tags ..."
+
+msgid "Enter Value..."
+msgstr "Wert eingeben..."
+
+msgid "Price:"
+msgstr "Preis:"
+
+msgid "Woocommerce Category"
+msgstr "Woocommerce-Kategorie"

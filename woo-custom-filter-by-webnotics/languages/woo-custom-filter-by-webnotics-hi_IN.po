@@ -1,0 +1,314 @@
+msgid "Welcome to my Product filter based on custom field and custom taxonomy for woocommerce."
+msgstr "मेरे उत्पाद फ़िल्टर में आपका स्वागत है जो कस्टम फ़ील्ड और कस्टम टैक्सोनॉमी पर आधारित है वूकॉमर्स के लिए।"
+
+msgid "All Custom Field"
+msgstr "सभी कस्टम फ़ील्ड"
+
+msgid "All Taxnomony"
+msgstr "सभी टैक्सोनॉमी"
+
+msgid "Custom Field List"
+msgstr "कस्टम फ़ील्ड सूची"
+
+msgid "Taxonomies List"
+msgstr "टैक्सोनॉमी सूची"
+
+msgid "Action"
+msgstr "क्रिया"
+
+msgid "Product filter for custom field and taxonomy Documentation"
+msgstr "कस्टम फ़ील्ड और टैक्सोनॉमी के लिए उत्पाद फ़िल्टर दस्तावेज़"
+
+msgid "Welcome to the documentation for WooCustomFilter Plugin."
+msgstr "WooCustomFilter प्लगइन की दस्तावेज़ीकरण में आपका स्वागत है।"
+
+msgid "Here you will find information about custom fields"
+msgstr "यहां आपको कस्टम फ़ील्ड के बारे में जानकारी मिलेगी"
+
+msgid "taxonomies"
+msgstr "टैक्सोनॉमी"
+
+msgid "and filters."
+msgstr "और फ़िल्टर।"
+
+msgid "Here you will find information about custom fields, taxonomies, and filters."
+msgstr "यहां आपको कस्टम फ़ील्ड, टैक्सोनॉमी और फ़िल्टर के बारे में जानकारी मिलेगी।"
+
+msgid "Custom Fields"
+msgstr "कस्टम फ़ील्ड"
+
+msgid "My Plugin allows you to create custom fields."
+msgstr "मेरी प्लगइन आपको कस्टम फ़ील्ड बनाने की अनुमति देती है।"
+
+msgid "Here’s how you can use them"
+msgstr "इन्हें उपयोग करने का तरीका यहाँ है"
+
+msgid "Field Name"
+msgstr "फ़ील्ड नाम"
+
+msgid "Enter unique field name for custom field."
+msgstr "कस्टम फ़ील्ड के लिए एक अनूठा फ़ील्ड नाम दर्ज करें।"
+
+msgid "Field Type"
+msgstr "फ़ील्ड प्रकार"
+
+msgid "Select field type for custom field like type:Radio , Input, Checkbox....."
+msgstr "कस्टम फ़ील्ड के लिए फ़ील्ड प्रकार का चयन करें जैसे: Radio, Input, Checkbox....."
+
+msgid "Custom Taxonomies"
+msgstr "कस्टम टैक्सोनॉमी"
+
+msgid "My Plugin supports custom taxonomies."
+msgstr "मेरी प्लगइन कस्टम टैक्सोनॉमी को समर्थन देती है।"
+
+msgid "Here’s how you can manage them"
+msgstr "इन्हें प्रबंधित करने का तरीका यहाँ है"
+
+msgid "Taxonomy Name"
+msgstr "टैक्सोनॉमी नाम"
+
+msgid "Enter unique field name for taxonomies"
+msgstr "टैक्सोनॉमी के लिए एक अनूठा फ़ील्ड नाम दर्ज करें"
+
+msgid "Custom Filters"
+msgstr "कस्टम फ़िल्टर"
+
+msgid "My Plugin includes custom filters. Here’s how you can apply them"
+msgstr "मेरी प्लगइन में कस्टम फ़िल्टर शामिल हैं। इन्हें लागू करने का तरीका यहाँ है"
+
+msgid "Settings for override shop template"
+msgstr "दूकान के टेम्पलेट को ओवरराइड करने के लिए सेटिंग्स"
+
+msgid "After install and activate plugin"
+msgstr "प्लगइन को इंस्टॉल और सक्रिय करने के बाद"
+
+msgid "Go to settings in custom filter menu and check checkbox and save it."
+msgstr "कस्टम फ़िल्टर मेनू में सेटिंग्स पर जाएं और चेकबॉक्स को चेक करें और इसे सहेजें।"
+
+msgid "Plugin Installation and Activation Guide"
+msgstr "प्लगइन इंस्टॉलेशन और सक्रियण गाइड"
+
+msgid "1. Downloading the Plugin"
+msgstr "1. प्लगइन डाउनलोड करना"
+
+msgid "From the WordPress Repository Navigate to the WordPress Plugin Repository"
+msgstr "WordPress रिपॉजिटरी से WordPress प्लगइन रिपॉजिटरी पर नेविगेट करें"
+
+msgid "Go to the WordPress Plugin Directory. Search for the Plugin"
+msgstr "WordPress प्लगइन डायरेक्ट्री पर जाएं। प्लगइन के लिए खोजें"
+
+msgid "Use the search bar to find the plugin by name"
+msgstr "प्लगइन को नाम से खोजने के लिए सर्च बार का उपयोग करें"
+
+msgid "Product filter based on custom field and custom taxonomy for woocommerce Upgraded"
+msgstr "वूकॉमर्स के लिए कस्टम फ़ील्ड और कस्टम टैक्सोनॉमी पर आधारित उत्पाद फ़िल्टर अपडेटेड"
+
+msgid "Download the Plugin"
+msgstr "प्लगइन डाउनलोड करें"
+
+msgid "Click on the plugin title to view its details. Click the Download button to download the .zip file of the plugin to your computer."
+msgstr "प्लगइन के शीर्षक पर क्लिक करें ताकि इसके विवरण को देखें। डाउनलोड बटन पर क्लिक करें ताकि प्लगइन का .zip फ़ाइल आपके कंप्यूटर पर डाउनलोड हो सके।"
+
+msgid "2. Installing the Plugin"
+msgstr "2. प्लगइन इंस्टॉल करना"
+
+msgid "Via the WordPress Admin Dashboard Log in to Your WordPress Admin Dashboard"
+msgstr "WordPress एडमिन डैशबोर्ड के माध्यम से अपने WordPress एडमिन डैशबोर्ड में लॉगिन करें"
+
+msgid "Enter your admin credentials and log in to your WordPress site. Navigate to the Plugins Page"
+msgstr "अपने एडमिन क्रेडेंशियल्स दर्ज करें और अपने WordPress साइट में लॉगिन करें। प्लगइन पेज पर नेविगेट करें"
+
+msgid "Go to Plugins > Add New. Upload the Plugin"
+msgstr "प्लगइन्स > नया जोड़ें पर जाएं। प्लगइन अपलोड करें"
+
+msgid "Click the Upload Plugin button at the top of the page. Click Choose File, select the .zip file you downloaded, and click Install Now. Activate the Plugin"
+msgstr "पेज के शीर्ष पर प्लगइन अपलोड बटन पर क्लिक करें। फ़ाइल चुनें पर क्लिक करें, डाउनलोड की गई .zip फ़ाइल को चयन करें और अभी इंस्टॉल करें पर क्लिक करें। प्लगइन सक्रिय करें"
+
+msgid "Once the plugin is installed, click the Activate Plugin link."
+msgstr "जब प्लगइन इंस्टॉल हो जाए, तो एक्टिवेट प्लगइन लिंक पर क्लिक करें।"
+
+msgid "Via FTP/SFTP Connect to Your Server: Use an FTP/SFTP client (e.g., FileZilla) to connect to your web server. Upload the Plugin"
+msgstr "FTP/SFTP के माध्यम से अपने सर्वर से कनेक्ट करें: एक FTP/SFTP क्लाइंट (जैसे, FileZilla) का उपयोग करें और अपने वेब सर्वर से कनेक्ट करें। प्लगइन अपलोड करें"
+
+msgid "Navigate to the /wp-content/plugins/ directory. Upload the extracted plugin folder (not the .zip file) into this directory. Activate the Plugin:"
+msgstr " /wp-content/plugins/ डायरेक्ट्री पर नेविगेट करें। इस डायरेक्ट्री में एक्सट्रैक्ट की गई प्लगइन फ़ोल्डर (न कि .zip फ़ाइल) अपलोड करें। प्लगइन को सक्रिय करें:"
+
+msgid "Log in to your WordPress Admin Dashboard. Go to Plugins > Installed Plugins. Find the plugin in the list and click Activate."
+msgstr "अपने WordPress एडमिन डैशबोर्ड में लॉगिन करें। प्लगइन्स > इंस्टॉल की गई प्लगइन्स पर जाएं। सूची में प्लगइन को खोजें और एक्टिवेट पर क्लिक करें।"
+
+msgid "3. Activating the Plugin"
+msgstr "3. प्लगइन सक्रियण"
+
+msgid "Log in to Your WordPress Admin Dashboard:"
+msgstr "अपने WordPress एडमिन डैशबोर्ड में लॉगिन करें:"
+
+msgid "Enter your admin credentials and access the dashboard. Go to the Plugins Page:"
+msgstr "अपने एडमिन क्रेडेंशियल्स दर्ज करें और डैशबोर्ड एक्सेस करें। प्लगइन पेज पर जाएं:"
+
+msgid "Navigate to Plugins > Installed Plugins. Locate the Plugin:"
+msgstr "प्लगइन्स > इंस्टॉल की गई प्लगइन्स पर नेविगेट करें। प्लगइन को ढूंढें:"
+
+msgid "Find the newly installed plugin in the list.Activate the Plugin:"
+msgstr "सूची में नए इंस्टॉल किए गए प्लगइन को खोजें। प्लगइन को सक्रिय करें:"
+
+msgid "Click the Activate link under the plugins name. Verify Activation:"
+msgstr "प्लगिन के नाम के नीचे एक्टिवेट लिंक पर क्लिक करें। सक्रियण की पुष्टि करें:"
+
+msgid "Ensure that the plugin is now listed as active and configured properly"
+msgstr "सुनिश्चित करें कि प्लगइन अब सक्रिय के रूप में सूचीबद्ध है और सही ढंग से कॉन्फ़िगर किया गया है"
+
+msgid "Add New Custom Field"
+msgstr "नया कस्टम फ़ील्ड जोड़ें"
+
+msgid "Add New Taxonomy"
+msgstr "नई टैक्सोनॉमी जोड़ें"
+
+msgid "Setting Page"
+msgstr "सेटिंग पेज"
+
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+msgid "Filter Option"
+msgstr "फ़िल्टर विकल्प"
+
+msgid "Customize style"
+msgstr "शैली को कस्टमाइज़ करें"
+
+msgid "Do you want to override the shop template?"
+msgstr "क्या आप दुकान के टेम्पलेट को ओवरराइड करना चाहते हैं?"
+
+msgid "Do you want to override the category page template?"
+msgstr "क्या आप श्रेणी पेज के टेम्पलेट को ओवरराइड करना चाहते हैं?"
+
+msgid "Do you want to remove content after removing the plugin?"
+msgstr "क्या आप प्लगइन हटाने के बाद सामग्री को हटाना चाहते हैं?"
+
+msgid "Filter By"
+msgstr "फ़िल्टर द्वारा"
+
+msgid "Filter by Search keyword"
+msgstr "सर्च कीवर्ड द्वारा फ़िल्टर करें"
+
+msgid "Filter by Price"
+msgstr "कीमत द्वारा फ़िल्टर करें"
+
+msgid "Filter by rating"
+msgstr "रेटिंग द्वारा फ़िल्टर करें"
+
+msgid "Filter by Tags"
+msgstr "टैग्स द्वारा फ़िल्टर करें"
+
+msgid "Clear filter"
+msgstr "फ़िल्टर साफ़ करें"
+
+msgid "Filter By Taxonomies"
+msgstr "टैक्सोनॉमी द्वारा फ़िल्टर करें"
+
+msgid "Custom Filter Option"
+msgstr "कस्टम फ़िल्टर विकल्प"
+
+msgid "All Custom Field"
+msgstr "सभी कस्टम फ़ील्ड"
+
+msgid "All Taxonomies Field"
+msgstr "सभी टैक्सोनॉमी फ़ील्ड"
+
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+msgid "Documentation"
+msgstr "दस्तावेज़ीकरण"
+
+msgid "Add New Custom Field"
+msgstr "नया कस्टम फ़ील्ड जोड़ें"
+
+msgid "Update Custom Field"
+msgstr "कस्टम फ़ील्ड अपडेट करें"
+
+msgid "Add New Taxonomy"
+msgstr "नई टैक्सोनॉमी जोड़ें"
+
+msgid "Button Text Color"
+msgstr "बटन टेक्स्ट रंग"
+
+msgid "Choose the color for the button text."
+msgstr "बटन टेक्स्ट के लिए रंग चुनें।"
+
+msgid "Button background Color"
+msgstr "बटन पृष्ठभूमि रंग"
+
+msgid "Choose the Button background Color."
+msgstr "बटन पृष्ठभूमि रंग चुनें।"
+
+msgid "Button Font Family"
+msgstr "बटन फ़ॉन्ट परिवार"
+
+msgid "Choose the Button Font Family."
+msgstr "बटन फ़ॉन्ट परिवार चुनें।"
+
+msgid "Button Font Size in px"
+msgstr "बटन फ़ॉन्ट आकार पिक्सल में"
+
+msgid "Insert the Button Font Size."
+msgstr "बटन फ़ॉन्ट आकार दर्ज करें।"
+
+msgid "Heading Text Color"
+msgstr "हेडिंग टेक्स्ट रंग"
+
+msgid "Choose the heading Text Color."
+msgstr "हेडिंग टेक्स्ट रंग चुनें।"
+
+msgid "Heading Font Family"
+msgstr "हेडिंग फ़ॉन्ट परिवार"
+
+msgid "Choose the heading Font Family."
+msgstr "हेडिंग फ़ॉन्ट परिवार चुनें।"
+
+msgid "Heading Font Size in px"
+msgstr "हेडिंग फ़ॉन्ट आकार पिक्सल में"
+
+msgid "Insert the heading Font Size."
+msgstr "हेडिंग फ़ॉन्ट आकार दर्ज करें।"
+
+msgid "Choose the color for price range slider"
+msgstr "कीमत की सीमा स्लाइडर के लिए रंग चुनें"
+
+msgid "Choose the color for price range slider."
+msgstr "कीमत की सीमा स्लाइडर के लिए रंग चुनें।"
+
+msgid "Google font family API"
+msgstr "गूगल फ़ॉन्ट परिवार एपीआई"
+
+msgid "Enter Google font family API"
+msgstr "गूगल फ़ॉन्ट परिवार एपीआई दर्ज करें"
+
+msgid "Do you want to enable sticky filter form?"
+msgstr "क्या आप स्टिकी फ़िल्टर फ़ॉर्म को सक्षम करना चाहते हैं?"
+
+msgid "Enable input box search by keyword?"
+msgstr "कीवर्ड द्वारा इनपुट बॉक्स सर्च सक्षम करें?"
+
+msgid "Enable filter by price?"
+msgstr "कीमत द्वारा फ़िल्टर सक्षम करें?"
+
+msgid "Enable filter by rating?"
+msgstr "रेटिंग द्वारा फ़िल्टर सक्षम करें?"
+
+msgid "Enable filter by tag?"
+msgstr "टैग द्वारा फ़िल्टर सक्षम करें?"
+
+msgid "Search by keyword or SKU"
+msgstr "कीवर्ड या SKU से खोजें"
+
+msgid "Choose tags ..."
+msgstr "टैग चुनें ..."
+
+msgid "Enter Value..."
+msgstr "मूल्य दर्ज करें..."
+
+msgid "Price:"
+msgstr "कीमत:"
+
+msgid "Woocommerce Category"
+msgstr "वूकॉमर्स श्रेणी"
